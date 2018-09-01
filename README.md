@@ -1,2 +1,4 @@
-# invie-github
-Guitarras invie-sibles by @DAPV
+# invie
+Las guitarras más locas
+
+http://leonidasesteban.github.io/invie-responsive/
